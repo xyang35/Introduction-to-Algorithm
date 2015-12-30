@@ -1,4 +1,4 @@
-# Sample codes for Insertion sort
+# Sample codes for Merge sort
 from random import randint
 
 def merge(A, left, right, middle):
