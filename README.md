@@ -14,3 +14,4 @@ Created by Xitong Yang, 12/16/2016
   - Chapter 2&3 [Growth of Functions] (https://github.com/xyang35/Introduction-to-Algorithm/blob/master/KeyNote/Chapter-2_3.pdf)
   - Chapter 4   [Divide-and-Conquer] (https://github.com/xyang35/Introduction-to-Algorithm/blob/master/KeyNote/Chapter-4.pdf)
   - Chapter 5   [Probabilistic Analysis and Randomized Algorithms] (https://github.com/xyang35/Introduction-to-Algorithm/blob/master/KeyNote/Chapter-5.pdf)
+  - Chapter 6   [Heapsort] (https://github.com/xyang35/Introduction-to-Algorithm/blob/master/KeyNote/Chapter-6.pdf)
